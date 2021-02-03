@@ -6,6 +6,6 @@ Let us add some noise to MNIST images and feed these noisy images to our model. 
 
 ![alt text](https://github.com/Yogesh-S/27-De-noising-Convolutional-Autoencoder/blob/main/autoencoder_denoise.png?raw=true)
 
-### Schematic of the network
+# Schematic of the network
 
 ![alt text](https://github.com/Yogesh-S/27-De-noising-Convolutional-Autoencoder/blob/main/conv_enc_3.JPG?raw=true)
